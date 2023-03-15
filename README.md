@@ -5,3 +5,5 @@
         git clone
     </li>
 </ol>
+
+<img src="imagenes/prueba.png" />
